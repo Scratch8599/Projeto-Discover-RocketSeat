@@ -83,8 +83,6 @@ body * {
     width: 32px;
     height: 32px;
     background: rgb(255, 255, 255) var(--switch-bg-url) no-repeat center;
-    backdrop-filter: brightness(0);
-    transition: background .4s;
     border: none;
     border-radius: 50%;
 
